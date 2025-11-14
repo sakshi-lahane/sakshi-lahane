@@ -14,12 +14,12 @@
 ## 🛠️ **Tech Stack**
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,git," />
 </p>
 
 ---
@@ -43,7 +43,6 @@
 - Mobile App Development (Flutter + Android)
 - UI/UX in Flutter
 - Firebase Auth, Firestore & Realtime DB
-- REST API Integration
 - State Management (Provider, GetX)
 - Android Jetpack basics
 
@@ -55,7 +54,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:sakshilahane2202@gmail.com">
+  <a href="mailto:lahanesakshi805@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
