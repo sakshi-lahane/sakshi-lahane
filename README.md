@@ -18,9 +18,11 @@
 </p>
 
 ### **Tools & Platforms**
+### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,intelliJ" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,intellij" />
 </p>
+
 
 ---
 
