@@ -9,7 +9,7 @@ My personal GitHub profile repository
 - Flutter | Dart | Firebase | Java | Android Studio | Git  
 
 ### 📈 GitHub Stats
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiLahane&show_icons=true&theme=tokyonight)
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=tokyonight)
 
 ### 🌍 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/sakshi-lahane-928842348/)
