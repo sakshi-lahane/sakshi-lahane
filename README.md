@@ -7,22 +7,21 @@
 - 👩‍🎓 Computer Science Student  
 - 💙 Passionate about **Flutter**, **Android**, and **Mobile App Development**  
 - 🔥 Currently learning **Firebase**, **REST APIs**, and **Clean UI Design**  
-- 🌱 Exploring **Open Source** and real-world mobile app solutions  
+- 🌱 Exploring **Open Source** and solving real-world mobile app problems  
 
 ---
 
 ## 🛠️ **Tech Stack**
+
 ### **Languages & Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase" />
 </p>
 
 ### **Tools & Platforms**
-### **Tools & Platforms**
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,git,intellij" />
 </p>
-
 
 ---
 
@@ -45,8 +44,9 @@
 - Mobile App Development (Flutter + Android)
 - UI/UX in Flutter
 - Firebase Auth, Firestore & Realtime DB
+- REST API Integration
 - State Management (Provider, GetX)
-- Android Jetpack basics
+- Android Jetpack essentials
 
 ---
 
