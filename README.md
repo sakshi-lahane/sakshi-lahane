@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sakshi Lahane</h1>
 
 <h3 align="center">
@@ -5,7 +9,7 @@ Flutter & Android Developer • Firebase • REST APIs
 </h3>
 
 <p align="center">
-I build clean, scalable, and user-friendly mobile applications  
+I build clean, scalable, and user-friendly mobile applications<br/>
 using Flutter and native Android (Java).
 </p>
 
@@ -13,30 +17,37 @@ using Flutter and native Android (Java).
 
 ## 👩‍💻 About Me
 
-I am a **Computer Science student and mobile application developer** with a strong interest in  
-building **real-world apps** using **Flutter and Android**.
+I am a **Computer Science student and Mobile Application Developer**  
+with a strong interest in building **real-world applications**.
 
-I enjoy working on:
-- Clean UI design  
-- Firebase-based backend systems  
-- API integration  
-- Writing maintainable and structured code  
+- 📱 Passionate about Flutter & Android Development  
+- 🎨 Love clean, responsive UI design  
+- 🔥 Experienced with Firebase backend systems  
+- 🌐 REST API integration (GET / POST)  
+- 🧠 Writing structured and maintainable code  
 
-Currently, I am **learning Flutter GetX and REST API integration**  
-to improve state management and app architecture.
+🌱 Currently learning:
+- GetX State Management  
+- Advanced REST API Architecture  
+- Clean MVC / MVVM Patterns  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,android" />
 </p>
 
-**Tools**
+### 🗄 Databases & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,github" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,postman" />
 </p>
 
 ---
@@ -48,9 +59,28 @@ to improve state management and app architecture.
 - Clean & Responsive UI Design  
 - Firebase Authentication  
 - Firestore & Realtime Database  
-- REST API Integration (GET / POST)  
-- State Management (Provider, GetX – Learning)  
+- REST API Integration  
+- State Management (Provider, GetX)  
 - Git & GitHub Version Control  
+
+---
+
+## 📌 Featured Projects
+
+### 📱 Smart Garment Shop App
+- Firebase Authentication  
+- Realtime Database  
+- Clean UI with MVC Architecture  
+
+### 💬 Chat Application
+- Real-time Messaging  
+- Firebase Backend  
+- Image Upload & Online Status  
+
+### 👤 Profile Management App
+- Edit Profile & Image Upload  
+- Firebase Storage  
+- Secure User Data  
 
 ---
 
@@ -86,4 +116,4 @@ to improve state management and app architecture.
 ---
 
 ⭐ **If you like my work, consider starring my repositories.**  
-It motivates me to keep learning and building better apps 🚀
+🚀 *It motivates me to keep learning and building better apps.*
