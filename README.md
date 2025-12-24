@@ -1,102 +1,88 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750125-0c9b7c1b-0d2e-4e0c-8a7c-9c7a7b9c7c0e.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sakshi Lahane</h1>
 
 <h3 align="center">
-Flutter & Android Developer • Firebase • REST APIs
+Aspiring Flutter & Android Developer
 </h3>
 
 <p align="center">
-I build clean, scalable, and user-friendly mobile applications<br/>
-using Flutter and native Android (Java).
+Computer Science Student • Learning Mobile App Development<br/>
+Focused on Flutter, Android (Java), and Firebase
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍🎓 About Me
 
-I am a **Computer Science student and Mobile Application Developer**  
-with a strong interest in building **real-world applications**.
+I am a **Computer Science student** who is learning and exploring  
+**mobile application development** step by step.
 
-- 📱 Passionate about Flutter & Android Development  
-- 🎨 Love clean, responsive UI design  
-- 🔥 Experienced with Firebase backend systems  
-- 🌐 REST API integration (GET / POST)  
-- 🧠 Writing structured and maintainable code  
+- 🌱 Beginner in Flutter & Android Development  
+- 📱 Interested in building simple and useful mobile apps  
+- 🎨 Learning clean and responsive UI design  
+- 🔥 Exploring Firebase for backend services  
+- 🧠 Improving problem-solving and coding skills  
 
-🌱 Currently learning:
-- GetX State Management  
-- Advanced REST API Architecture  
-- Clean MVC / MVVM Patterns  
+Currently learning:
+- Flutter basics  
+- Android (Java) fundamentals  
+- Firebase Authentication  
+- REST API concepts  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Learning Tech Stack
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,android" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,android" />
 </p>
 
-### 🗄 Databases & Backend
+### 🗄 Backend & Database (Learning)
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github" />
 </p>
 
 ---
 
-## 🚀 Skills
+## 📚 Current Skills Level
 
-- Flutter App Development  
-- Native Android Development (Java)  
-- Clean & Responsive UI Design  
-- Firebase Authentication  
-- Firestore & Realtime Database  
-- REST API Integration  
-- State Management (Provider, GetX)  
-- Git & GitHub Version Control  
+- Flutter (Beginner)  
+- Android Development with Java (Beginner)  
+- UI Design using XML & Flutter Widgets  
+- Firebase Authentication (Basic)  
+- Firestore / Realtime Database (Basic)  
+- REST API Concepts  
+- Git & GitHub Basics  
 
 ---
 
-## 📌 Featured Projects
+## 📂 Practice Projects
 
-### 📱 Smart Garment Shop App
-- Firebase Authentication  
-- Realtime Database  
-- Clean UI with MVC Architecture  
+### 📱 Basic Android Apps
+- Calculator App  
+- Login & Register UI  
+- Firebase Authentication Demo  
 
-### 💬 Chat Application
-- Real-time Messaging  
-- Firebase Backend  
-- Image Upload & Online Status  
-
-### 👤 Profile Management App
-- Edit Profile & Image Upload  
-- Firebase Storage  
-- Secure User Data  
+### 📱 Flutter Practice Apps
+- Simple UI Screens  
+- Form Validation  
+- Firebase Login (Learning Phase)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-lahane&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshi-lahane&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -115,5 +101,5 @@ with a strong interest in building **real-world applications**.
 
 ---
 
-⭐ **If you like my work, consider starring my repositories.**  
-🚀 *It motivates me to keep learning and building better apps.*
+🌱 *Learning every day and improving step by step*  
+⭐ *Thanks for visiting my GitHub profile*
