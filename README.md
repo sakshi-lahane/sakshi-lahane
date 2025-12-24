@@ -1,64 +1,88 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/female-programmer.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sakshi Lahane</h1>
-<h3 align="center">A Passionate Mobile App Development Learner</h3>
 
 <p align="center">
-Flutter & Android (Java) • Firebase • UI Development
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Flutter+%26+Android+Developer;Mobile+App+Development+Learner;Firebase+%7C+Clean+UI+%7C+REST+APIs;Learning+%26+Building+Every+Day" />
+</p>
+
+<p align="center">
+  <b>Mobile Application Development • Flutter • Android (Java)</b>
 </p>
 
 ---
 
-### 👩‍🎓 About Me
+## 🌸 About Me
 
-- 🎓 Computer Science Student  
-- 📱 Interested in Mobile Application Development  
-- 🌱 Currently learning **Flutter** and **Android (Java)**  
-- 🔥 Exploring **Firebase** for backend services  
-- 🎨 Learning clean & responsive UI design  
-- 🧠 Improving coding fundamentals step by step  
-
----
-
-### 🔭 Currently Working On
-
-- 📱 Practice Android & Flutter Applications  
-- 🔐 Firebase Authentication & Database Practice  
-- 🎨 UI Screens and Forms  
+- 👩‍🎓 Computer Science Student  
+- 📱 Flutter & Android App Developer  
+- 🎨 Love clean, modern UI design  
+- 🔥 Learning Firebase backend systems  
+- 🌱 Improving app architecture & state management  
 
 ---
 
-### 🌱 Currently Learning
+## 🧩 Tech & Tools
 
-- Flutter Basics  
-- Android App Development (Java)  
-- Firebase Authentication  
-- Firestore & Realtime Database  
-- REST API Concepts  
-
----
-
-### 💬 Ask Me About
-
-- Flutter Basics  
-- Android XML UI  
-- Java Programming Fundamentals  
-- Firebase Basics  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,cpp" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,postman" />
+</p>
 
 ---
 
-### 📫 How to Reach Me
+## 🚀 What I’m Working On
 
-- 📧 Email: **lahanesakshi805@gmail.com**
-- 💼 LinkedIn: [Sakshi Lahane](https://www.linkedin.com/in/sakshi-lahane-928842348/)
+- 📱 Flutter & Android Practice Apps  
+- 🔐 Firebase Authentication & Database  
+- 🎨 UI Screens & User Experience  
 
 ---
 
-### 🌐 Connect With Me
+## 📂 Projects
 
-<p align="left">
+<p align="center">
+
+📱 <b>Smart Garment Shop App</b><br/>
+Firebase • Realtime Database • Clean UI  
+
+💬 <b>Chat Application</b><br/>
+Realtime Messaging • Firebase  
+
+👤 <b>Profile Management App</b><br/>
+Image Upload • Secure User Data  
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-lahane&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sakshi-lahane&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sakshi-lahane-928842348/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:lahanesakshi805@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -66,21 +90,6 @@ Flutter & Android (Java) • Firebase • UI Development
 
 ---
 
-### 🛠 Languages and Tools (Learning & Using)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,android,firebase,git,github,html,css,javascript" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=tokyonight&hide_border=true"/>
+  🌱 Learning • Building • Growing Every Day 🚀
 </p>
-
----
-
-🌱 *Learning every day and growing as a developer*  
-⭐ *Thanks for visiting my GitHub profile*
