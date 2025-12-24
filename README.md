@@ -1,99 +1,64 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750125-0c9b7c1b-0d2e-4e0c-8a7c-9c7a7b9c7c0e.gif" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Sakshi Lahane</h1>
-
-<h3 align="center">
-Aspiring Flutter & Android Developer
-</h3>
+<h3 align="center">A Passionate Mobile App Development Learner</h3>
 
 <p align="center">
-Computer Science Student • Learning Mobile App Development<br/>
-Focused on Flutter, Android (Java), and Firebase
+Flutter & Android (Java) • Firebase • UI Development
 </p>
 
 ---
 
-## 👩‍🎓 About Me
+### 👩‍🎓 About Me
 
-I am a **Computer Science student** who is learning and exploring  
-**mobile application development** step by step.
+- 🎓 Computer Science Student  
+- 📱 Interested in Mobile Application Development  
+- 🌱 Currently learning **Flutter** and **Android (Java)**  
+- 🔥 Exploring **Firebase** for backend services  
+- 🎨 Learning clean & responsive UI design  
+- 🧠 Improving coding fundamentals step by step  
 
-- 🌱 Beginner in Flutter & Android Development  
-- 📱 Interested in building simple and useful mobile apps  
-- 🎨 Learning clean and responsive UI design  
-- 🔥 Exploring Firebase for backend services  
-- 🧠 Improving problem-solving and coding skills  
+---
 
-Currently learning:
-- Flutter basics  
-- Android (Java) fundamentals  
+### 🔭 Currently Working On
+
+- 📱 Practice Android & Flutter Applications  
+- 🔐 Firebase Authentication & Database Practice  
+- 🎨 UI Screens and Forms  
+
+---
+
+### 🌱 Currently Learning
+
+- Flutter Basics  
+- Android App Development (Java)  
 - Firebase Authentication  
-- REST API concepts  
-
----
-
-## 🛠 Learning Tech Stack
-
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,android" />
-</p>
-
-### 🗄 Backend & Database (Learning)
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,github" />
-</p>
-
----
-
-## 📚 Current Skills Level
-
-- Flutter (Beginner)  
-- Android Development with Java (Beginner)  
-- UI Design using XML & Flutter Widgets  
-- Firebase Authentication (Basic)  
-- Firestore / Realtime Database (Basic)  
+- Firestore & Realtime Database  
 - REST API Concepts  
-- Git & GitHub Basics  
 
 ---
 
-## 📂 Practice Projects
+### 💬 Ask Me About
 
-### 📱 Basic Android Apps
-- Calculator App  
-- Login & Register UI  
-- Firebase Authentication Demo  
-
-### 📱 Flutter Practice Apps
-- Simple UI Screens  
-- Form Validation  
-- Firebase Login (Learning Phase)  
+- Flutter Basics  
+- Android XML UI  
+- Java Programming Fundamentals  
+- Firebase Basics  
 
 ---
 
-## 📊 GitHub Stats
+### 📫 How to Reach Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+- 📧 Email: **lahanesakshi805@gmail.com**
+- 💼 LinkedIn: [Sakshi Lahane](https://www.linkedin.com/in/sakshi-lahane-928842348/)
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sakshi-lahane-928842348/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:lahanesakshi805@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -101,5 +66,21 @@ Currently learning:
 
 ---
 
-🌱 *Learning every day and improving step by step*  
+### 🛠 Languages and Tools (Learning & Using)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,android,firebase,git,github,html,css,javascript" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+🌱 *Learning every day and growing as a developer*  
 ⭐ *Thanks for visiting my GitHub profile*
