@@ -27,9 +27,9 @@
 ## 🛠 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java" />
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" />
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,CPP" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,]" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,intelliJ" />
 </p>
 
 ---
