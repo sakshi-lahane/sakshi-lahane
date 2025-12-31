@@ -1,109 +1,85 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655842-0c8b4c3c-9a56-4f6c-9e9f-6a3c8b6e8c1a.gif" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Sakshi Lahane</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3500&pause=800&color=6F6AF8&center=true&vCenter=true&width=650&lines=Mobile+Application+Developer;Flutter+%7C+Android+(Java);Firebase+%7C+Clean+UI;Learning+and+Building+Every+Day" />
+  Mobile Application Developer | Flutter & Android (Java)
 </p>
 
 <p align="center">
-  📍 Computer Science Student &nbsp;•&nbsp; 📱 Mobile App Developer
+  📍 Computer Science Student • 📱 App Developer
 </p>
 
 ---
 
-## ✨ About Me
+## 👩‍💻 About Me
 
-👩‍🎓 I am a **Computer Science student** and **Mobile Application Developer** passionate about building  
-clean, scalable, and user-friendly mobile applications.
-
-💡 I enjoy turning ideas into real-world apps using **Flutter** and **native Android (Java)**,  
-with a strong focus on **UI/UX** and **Firebase backend services**.
-
-🌱 Currently learning **app architecture**, **state management**, and **best development practices**.
+- Computer Science student and mobile application developer  
+- Experienced in **Flutter** and **Android (Java)**  
+- Focused on **real-world applications**, clean UI, and Firebase backend  
+- Interested in building complete user flows with authentication and data handling  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-### 🚧 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,cpp" />
-</p>
+**Mobile Development**
+- Flutter (Dart)
+- Android (Java)
 
-### 🔥 Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
-</p>
+**Backend & Database**
+- Firebase Authentication  
+- Firebase Realtime Database  
+- Firebase Storage  
+- MySQL (Basics)
 
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,intellij" />
-</p>
-
----
-
-## 🚀 What I’m Currently Working On
-
-- 📱 Flutter & Android practice applications  
-- 🔐 Authentication & user management systems  
-- 🎨 Clean UI screens with complete user flows  
-- ☁️ Firebase integration (Auth, Database, Storage)  
+**Tools**
+- Android Studio  
+- Git & GitHub  
+- IntelliJ IDEA  
 
 ---
 
-## 📂 Highlighted Projects
+## 📂 Projects
 
 ### 🔹 Smart Garment Shop App
-- Firebase Authentication  
-- Realtime Database  
-- Clean & modern UI  
+- User authentication using Firebase  
+- Product listing and order flow  
+- Realtime Database integration  
 
 ### 🔹 Chat Application
-- Realtime messaging  
+- One-to-one real-time messaging  
 - Firebase backend  
-- Image & media sharing  
+- Image sharing support  
 
 ### 🔹 Profile Management App
-- Image upload & crop  
-- Secure user data handling  
-- Firebase Storage  
+- Profile image upload & crop  
+- Secure user data storage  
+- Firebase Storage integration  
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=calm&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-lahane&layout=compact&theme=calm&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-lahane&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshi-lahane&theme=calm&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-lahane&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-lahane-928842348/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:lahanesakshi805@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  🌱 Learning • Building • Improving Every Day 🚀
+  <a href="https://www.linkedin.com/in/sakshi-lahane-928842348/" target="_blank">LinkedIn</a> |
+  <a href="mailto:lahanesakshi805@gmail.com">Email</a>
 </p>
