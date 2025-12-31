@@ -1,85 +1,69 @@
-<h1 align="center">Hi 👋, I'm Sakshi Lahane</h1>
+<h1 align="center">Sakshi Lahane</h1>
 
 <p align="center">
-  Mobile Application Developer | Flutter & Android (Java)
-</p>
-
-<p align="center">
-  📍 Computer Science Student • 📱 App Developer
+Mobile Application Developer | Flutter & Android (Java)
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## Profile Summary
 
-- Computer Science student and mobile application developer  
-- Experienced in **Flutter** and **Android (Java)**  
-- Focused on **real-world applications**, clean UI, and Firebase backend  
-- Interested in building complete user flows with authentication and data handling  
+Computer Science student with hands-on experience in mobile application development using Flutter and Android (Java).  
+Worked on real-world applications with Firebase authentication, database, and storage integration.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-**Mobile Development**
+**Programming & Mobile Development**
 - Flutter (Dart)
-- Android (Java)
+- Android Development (Java)
 
 **Backend & Database**
-- Firebase Authentication  
-- Firebase Realtime Database  
-- Firebase Storage  
-- MySQL (Basics)
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase Storage
+- MySQL (Basic)
 
 **Tools**
-- Android Studio  
-- Git & GitHub  
-- IntelliJ IDEA  
+- Android Studio
+- Git, GitHub
+- IntelliJ IDEA
 
 ---
 
-## 📂 Projects
+## Academic & Practical Projects
 
-### 🔹 Smart Garment Shop App
-- User authentication using Firebase  
-- Product listing and order flow  
-- Realtime Database integration  
+**Smart Garment Shop Application**
+- Firebase authentication and user management
+- Product listing and order flow
+- Realtime Database integration
 
-### 🔹 Chat Application
-- One-to-one real-time messaging  
-- Firebase backend  
-- Image sharing support  
+**Chat Application**
+- One-to-one real-time messaging
+- Firebase backend
+- Media sharing functionality
 
-### 🔹 Profile Management App
-- Profile image upload & crop  
-- Secure user data storage  
-- Firebase Storage integration  
+**Profile Management Application**
+- User profile creation and update
+- Image upload and crop
+- Firebase Storage integration
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-lahane&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-lahane&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-lahane&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-lahane&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Contact
+## Contact Information
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-lahane-928842348/" target="_blank">LinkedIn</a> |
-  <a href="mailto:lahanesakshi805@gmail.com">Email</a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/sakshi-lahane-928842348/
+- Email: lahanesakshi805@gmail.com
